@@ -16,7 +16,5 @@ Wirth è noto anche per la pubblicazione dell'articolo Program Development by St
 (EN) Opere di Niklaus Wirth, su Open Library, Internet Archive. Modifica su Wikidata
 (EN) Niklaus Wirth, su Goodreads. Modifica su Wikidata
 (EN) Home page personale all'ETHZ
-(EN) Program Development by Stepwise Refinement, Communications of the ACM, Vol. 14, No. 4, aprile 1971, pp. 221–227
-
-
-llllll
+(EN) Program Development by Stepwise Refinement, Communications of the ACM, Vol. 14, No. 4, aprile 1971, pp. 221
+Modifica di oggi
