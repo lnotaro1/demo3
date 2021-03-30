@@ -22,7 +22,7 @@
 
 ## Pipeline di progetto
 La creazione e l'aggiornamento degli eseguibili coinvolge una *toolchain* in *pipeline*, ovvero una serie di tool collegati in sequenza in modo che l'output del precedente sia l'input del successivo, come da figura.
-![pipeline](./res/img/guida-studente/Pipeline.png)
+![pipeline](/Immagini GitHub progetto/Action_badge_L.png)
 Di seguito si riportano le istruzioni dettagliate per attivare la pipeline.
 
 
